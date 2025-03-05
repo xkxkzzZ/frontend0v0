@@ -21,7 +21,7 @@ const testConnection = async () => {
 </script>
 
 <template>
-  <div class="text-gray-500 text-lg  bg-gray-100 p-4 rounded-lg shadow 
+  <div class="text-gray-600 text-lg  bg-gray-100/70 p-4 rounded-lg shadow
     w-1/4 fixed left-10 bottom-10">
     <div class="flex p-2 items-center justify-center">
       <button 
